@@ -1,0 +1,339 @@
+[
+    {
+        "id": "1",
+        "name": "Luxury Watch Set",
+        "description": "Elegant and sophisticated watch set featuring a Swiss-made timepiece with stainless steel straps and a matching bracelet. A perfect gift for the style-conscious.",
+        "price": 799.99
+    },
+    {
+        "id": "2",
+        "name": "Handcrafted Wooden Chess Set",
+        "description": "Beautifully handcrafted wooden chess set with intricate detailing. Enjoy hours of strategic gameplay with this exquisite gift for board game enthusiasts.",
+        "price": 129.99
+    },
+    {
+        "id": "3",
+        "name": "Gourmet Chocolate Collection",
+        "description": "Indulge in a delectable assortment of premium chocolates from around the world. This gift is a sweet treat for anyone with a sweet tooth.",
+        "price": 39.99
+    },
+    {
+        "id": "4",
+        "name": "Virtual Reality Headset",
+        "description": "Immerse yourself in the world of virtual reality with this high-quality VR headset. Explore virtual worlds, play games, and watch 3D movies like never before.",
+        "price": 349.99
+    },
+    {
+        "id": "5",
+        "name": "Smart Home Assistant",
+        "description": "A voice-controlled smart home assistant that can play music, answer questions, control smart devices, and make everyday tasks easier.",
+        "price": 89.99
+    },
+    {
+        "id": "6",
+        "name": "Travel Backpack",
+        "description": "Durable and spacious travel backpack with multiple compartments and anti-theft features. Ideal for adventurers and frequent travelers.",
+        "price": 59.99
+    },
+    {
+        "id": "7",
+        "name": "Wireless Noise-Canceling Headphones",
+        "description": "Experience crystal-clear audio and block out distractions with these wireless noise-canceling headphones. Perfect for music lovers and travelers.",
+        "price": 199.99
+    },
+    {
+        "id": "8",
+        "name": "Culinary Masterclass Gift Certificate",
+        "description": "Unlock your inner chef with a culinary masterclass gift certificate. Learn to cook gourmet dishes and impress your friends and family.",
+        "price": 249.99
+    },
+    {
+        "id": "9",
+        "name": "Puzzle Board Game",
+        "description": "Challenge your mind with this engaging puzzle board game. Test your problem-solving skills and have hours of fun with friends and family.",
+        "price": 29.99
+    },
+    {
+        "id": "10",
+        "name": "Digital Drawing Tablet",
+        "description": "Unleash your creativity with a digital drawing tablet. Create stunning digital artwork and illustrations with precision and ease. For beginners and professionals in vector illustrations.",
+        "price": 179.99
+    },
+    {
+        "id": "11",
+        "name": "Personalized Photo Album",
+        "description": "Capture and cherish your memories with a personalized photo album. Add your favorite photos and create a unique keepsake.",
+        "price": 49.99
+    },
+    {
+        "id": "12",
+        "name": "Aromatherapy Essential Oil Diffuser",
+        "description": "Relax and unwind with the soothing scents of aromatherapy. This essential oil diffuser creates a tranquil atmosphere in any room.",
+        "price": 29.99
+    },
+    {
+        "id": "13",
+        "name": "Fitness Tracker Watch",
+        "description": "Stay on top of your health and fitness goals with a smart fitness tracker watch. Monitor your activity, heart rate, and sleep patterns.",
+        "price": 129.99
+    },
+    {
+        "id": "14",
+        "name": "Artisanal Tea Sampler",
+        "description": "Savor a variety of handpicked artisanal teas from around the world. A delightful gift for tea connoisseurs and relaxation seekers.",
+        "price": 19.99
+    },
+    {
+        "id": "15",
+        "name": "Outdoor Camping Gear Set",
+        "description": "Equip yourself for outdoor adventures with this comprehensive camping gear set. Includes a tent, sleeping bag, and cooking essentials.",
+        "price": 249.99
+    },
+    {
+        "id": "16",
+        "name": "Vintage Vinyl Record Player",
+        "description": "Experience the nostalgia of vinyl records with a vintage record player. Enjoy the warm, rich sound of your favorite albums.",
+        "price": 149.99
+    },
+    {
+        "id": "17",
+        "name": "Board Game Collection",
+        "description": "Build lasting memories with a collection of classic board games. Fun for all ages, this gift is perfect for family game nights.",
+        "price": 69.99
+    },
+    {
+        "id": "18",
+        "name": "Leather Travel Journal",
+        "description": "Document your travels and adventures in style with a leather-bound travel journal. Ideal for globetrotters and aspiring writers.",
+        "price": 39.99
+    },
+    {
+        "id": "19",
+        "name": "Cookware Set",
+        "description": "Upgrade your kitchen with a premium cookware set. Prepare delicious meals with ease using high-quality pots and pans.",
+        "price": 199.99
+    },
+    {
+        "id": "20",
+        "name": "Wireless Speaker",
+        "description": "Enjoy your favorite music on the go with a portable speaker. Crystal-clear sound and wireless connectivity make it a must-have.",
+        "price": 79.99
+    },
+    {
+        "id": "21",
+        "name": "Scented Candle Gift Set",
+        "description": "Set the mood with a scented candle gift set. Fill your home with relaxing and aromatic fragrances for a calming atmosphere.",
+        "price": 29.99
+    },
+    {
+        "id": "22",
+        "name": "Desk Accesories Set",
+        "description": "Equip your working space with desk accessories with handrest and pens.",
+        "price": 99.99
+    },
+    {
+        "id": "23",
+        "name": "Wireless Charging Station",
+        "description": "Streamline your charging routine with a wireless charging station. Charge your smartphone, smartwatch, and earbuds all in one place.",
+        "price": 49.99
+    },
+    {
+        "id": "24",
+        "name": "Gourmet Wine and Cheese Basket",
+        "description": "Elevate your wine and cheese tasting experience with a gourmet basket featuring carefully selected wines, cheeses, and accompaniments.",
+        "price": 129.99
+    },
+    {
+        "id": "25",
+        "name": "Robotic Vacuum Cleaner",
+        "description": "Keep your home clean and tidy effortlessly with a robotic vacuum cleaner. It navigates and cleans your floors with precision.",
+        "price": 299.99
+    },
+    {
+        "id": "26",
+        "name": "Plant Lover's Terrarium Kit",
+        "description": "Bring the beauty of nature indoors with a terrarium kit for plant enthusiasts. Create your mini ecosystem and watch it thrive.",
+        "price": 49.99
+    },
+    {
+        "id": "27",
+        "name": "Fitness Equipment Set",
+        "description": "Get fit at home with a comprehensive fitness equipment set. Includes weights, resistance bands, and workout accessories.",
+        "price": 149.99
+    },
+    {
+        "id": "28",
+        "name": "Bluetooth Noise-Canceling Earbuds",
+        "description": "Enjoy immersive audio quality and block out distractions with Bluetooth noise-canceling earbuds. Perfect for music lovers and commuters.",
+        "price": 89.99
+    },
+    {
+        "id": "29",
+        "name": "Jewelry Box with Personalized Engraving",
+        "description": "Store and display your jewelry in a beautifully crafted jewelry box with a personalized engraving. A thoughtful gift for loved ones.",
+        "price": 59.99
+    },
+    {
+        "id": "30",
+        "name": "Digital Camera with Accessories",
+        "description": "Capture life's precious moments with a high-quality digital camera and a bundle of accessories. Perfect for budding photographers.",
+        "price": 299.99
+    },
+    {
+        "id": "31",
+        "name": "Artisanal Chocolate Truffle Collection",
+        "description": "Indulge in a decadent collection of artisanal chocolate truffles. Each piece is a work of art, handcrafted for the ultimate chocolate experience.",
+        "price": 19.99
+    },
+    {
+        "id": "32",
+        "name": "Smart Garden Kit",
+        "description": "Grow your own herbs and vegetables with a smart garden kit. Monitor and control the environment to ensure healthy plant growth.",
+        "price": 69.99
+    },
+    {
+        "id": "33",
+        "name": "Professional Makeup Brush Set",
+        "description": "Achieve flawless makeup looks with a professional makeup brush set. These high-quality brushes are a beauty enthusiast's dream.",
+        "price": 49.99
+    },
+    {
+        "id": "34",
+        "name": "Cocktail Mixology Kit",
+        "description": "Become a master mixologist with a cocktail mixology kit. Create your favorite cocktails with premium spirits and accessories.",
+        "price": 79.99
+    },
+    {
+        "id": "35",
+        "name": "Eco-Friendly Reusable Shopping Bags",
+        "description": "Reduce plastic waste and shop sustainably with a set of eco-friendly reusable shopping bags. Durable and stylish, they're a green gift choice.",
+        "price": 9.99
+    },
+    {
+        "id": "36",
+        "name": "Wireless Gaming Controller",
+        "description": "Enhance your gaming experience with a wireless gaming controller. Compatible with various gaming platforms for hours of entertainment.",
+        "price": 49.99
+    },
+    {
+        "id": "37",
+        "name": "Vintage-inspired Wall Clock",
+        "description": "Add a touch of vintage charm to your home decor with a vintage-inspired wall clock. Its timeless design complements any room.",
+        "price": 39.99
+    },
+    {
+        "id": "38",
+        "name": "Aromatherapy Diffuser Necklace",
+        "description": "Carry the benefits of aromatherapy with you wherever you go. This diffuser necklace allows you to enjoy your favorite scents on the move.",
+        "price": 14.99
+    },
+    {
+        "id": "39",
+        "name": "Customized Pop Art Portrait",
+        "description": "Transform your photo into a vibrant pop art masterpiece with a customized pop art portrait. A unique and personalized gift idea.",
+        "price": 99.99
+    },
+    {
+        "id": "40",
+        "name": "Laptop Stand and Cooling Pad",
+        "description": "Elevate your laptop setup with a laptop stand and cooling pad. Improve ergonomics and prevent overheating during extended use.",
+        "price": 34.99
+    },
+    {
+        "id": "41",
+        "name": "Bonsai Tree Starter Kit",
+        "description": "Discover the art of bonsai with a starter kit that includes everything you need to cultivate your own miniature tree masterpiece.",
+        "price": 59.99
+    },
+    {
+        "id": "42",
+        "name": "Luxury Leather Wallet",
+        "description": "Upgrade your everyday essentials with a luxury leather wallet. Sleek and functional, it's a stylish accessory for any wardrobe. Unisex. Long lasting quality.",
+        "price": 49.99
+    },
+    {
+        "id": "43",
+        "name": "Bluetooth Speaker",
+        "description": "Listen for favourite music from your smartphone with inexpensive bluetooth speaker with charging feature for your device.",
+        "price": 29.99
+    },
+    {
+        "id": "44",
+        "name": "Premium Tea Kettle",
+        "description": "Brew the perfect cup of tea with a premium tea kettle. Its elegant design and precise temperature control ensure a delightful tea experience.",
+        "price": 39.99
+    },
+    {
+        "id": "45",
+        "name": "Board Game Puzzle Collection",
+        "description": "Combine the excitement of board games and puzzles with this unique collection. Challenge your mind and have fun with these hybrid games.",
+        "price": 29.99
+    },
+    {
+        "id": "46",
+        "name": "Artisanal Soap and Bath Bomb Set",
+        "description": "Pamper yourself with an artisanal soap and bath bomb set. Indulge in luxurious baths and enjoy the soothing scents of handmade soap.",
+        "price": 19.99
+    },
+    {
+        "id": "47",
+        "name": "Digital E-ink Reader",
+        "description": "Take your library with you wherever you go with a digital e-ink reader. Enjoy thousands of books at your fingertips in a compact device. Also play games and browse websites.",
+        "price": 99.99
+    },
+    {
+        "id": "48",
+        "name": "Gourmet Coffee Sampler",
+        "description": "Experience the rich flavors of gourmet coffee with a sampler featuring a variety of coffee beans from different regions.",
+        "price": 29.99
+    },
+    {
+        "id": "49",
+        "name": "Smart LED Light Bulbs",
+        "description": "Transform your living space with smart LED light bulbs. Control brightness, color, and ambiance with your smartphone or voice commands.",
+        "price": 29.99
+    },
+    {
+        "id": "50",
+        "name": "Outdoor Picnic Basket Set",
+        "description": "Enjoy picnics in style with a complete outdoor picnic basket set. Includes all the essentials for a delightful picnic experience.",
+        "price": 89.99
+    },
+    {
+        "id": "51",
+        "name": "Quadcopter Drone with HD Camera",
+        "description": "Capture stunning aerial photos and videos with this quadcopter drone equipped with a high-definition camera.",
+        "price": 299.99
+    },
+    {
+        "id": "52",
+        "name": "FPV Racing Drone Kit",
+        "description": "Experience the thrill of FPV racing with this complete drone kit. Includes goggles, remote control, and a powerful racing drone.",
+        "price": 249.99
+    },
+    {
+        "id": "53",
+        "name": "Foldable Mini Drone for Beginners",
+        "description": "Perfect for beginners, this foldable mini drone is easy to fly and comes with built-in stabilization features for smooth flights.",
+        "price": 79.99
+    },
+    {
+        "id": "54",
+        "name": "Hexacopter Agricultural Drone",
+        "description": "Designed for agricultural use, this hexacopter drone is equipped with advanced sensors for precision crop monitoring and spraying.",
+        "price": 1999.99
+    },
+    {
+        "id": "55",
+        "name": "Underwater Drone with 4K Camera",
+        "description": "Explore the depths with this underwater drone featuring a 4K camera. Ideal for underwater photography and exploration.",
+        "price": 499.99
+    },
+    {
+       "id": "56",
+       "name": "Foldable Small Drone for Beginners",
+       "description": "Perfect for beginners, this foldable small drone is easy to fly.",
+       "price": 69.99
+   }
+ ]
+ 

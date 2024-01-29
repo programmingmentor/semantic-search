@@ -1,0 +1,17 @@
+{
+  "name": "semantic-search-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env search.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/openai": "^0.0.13",
+    "langchain": "^0.1.9"
+  }
+}
